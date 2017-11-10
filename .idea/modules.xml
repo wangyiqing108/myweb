@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EWP_OMS/.idea/EWP_OMS.iml" filepath="$PROJECT_DIR$/../EWP_OMS/.idea/EWP_OMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cmdb/.idea/cmdb.iml" filepath="$PROJECT_DIR$/../cmdb/.idea/cmdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myweb.iml" filepath="$PROJECT_DIR$/.idea/myweb.iml" />
+    </modules>
+  </component>
+</project>
